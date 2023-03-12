@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+}
+
+input {
+  margin-left: 10px;
+}
+
+input[type="button"] {
+  border: none;
+  padding: 5px 10px;
+  color: white;
+  background: black;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+
+input[type="button"]:hover {
+  opacity: 0.9;
+}
