@@ -33,7 +33,7 @@ const Home = () => {
       <div className="mt-16">
         <FormField />
       </div>
-      {/* Loading and showing result text */}
+      {/* Loading and show the result */}
       <div className="mt-10">
         {loading ? (
           <div className="flex justify-center items-center">
